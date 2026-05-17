@@ -1,4 +1,4 @@
-# 
+# VisDrone2019-DET dataset https://github.com/VisDrone/VisDrone-Dataset by Tianjin University
 path: /root/dataset/dataset_visdrone/  # dataset root dir
 train: VisDrone2019-DET-train/images  # train images (relative to 'path')  6471 images
 val: VisDrone2019-DET-val/images  # val images (relative to 'path')  548 images
